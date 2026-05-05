@@ -71,20 +71,6 @@ Simply open:
 index.html
 ```
 
-Or use a local server:
-
-```bash id="pc4"
-python -m http.server 8000
-```
-
-Then visit:
-
-```id="pc5"
-http://localhost:8000
-```
-
----
-
 ## 🧩 How It Works
 
 * UI renders coin/token-related data
@@ -131,6 +117,10 @@ Open a Pull Request 🚀
 
 ---
 
+## Live
+
+Project is deployed on vercel cloud and is live at **https://pokocoin.vercel.app** , anyone interested should check this one out , it has a beautiful design.
+
 ## 📄 License
 
 MIT License
@@ -140,6 +130,8 @@ MIT License
 ## 👨‍💻 Author
 
 **Adarsh Agarwal**
+
+Project was built on a template which was legally bought but its customization , adding blue theme , design , character and creative angle can be contributed to my creative process.  
 
 * GitHub: https://github.com/adarshagar211
 
