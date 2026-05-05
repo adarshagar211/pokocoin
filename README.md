@@ -131,7 +131,7 @@ MIT License
 
 **Adarsh Agarwal**
 
-Project was built on a template which was legally bought but its customization , adding blue theme , design , character and creative angle can be contributed to my creative process.  
+Project was customized , adding blue theme , design , character etc and can be attributed to author's creative process.  
 
 * GitHub: https://github.com/adarshagar211
 
